@@ -19,7 +19,7 @@ function Footer() {
                                 </p>
 
                                 <footer>
-                                    <p className=" text-sm text-gray-300">Made with ❤️ by Kartik Panjla</p>
+                                    <p className=" text-sm text-gray-300">Made with ❤️ by 100R@BH</p>
                                 </footer>
 
                             </div>
