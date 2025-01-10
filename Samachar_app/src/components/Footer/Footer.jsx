@@ -15,11 +15,11 @@ function Footer() {
                             </div>
                             <div>
                                 <p className="text-sm text-gray-300">
-                                    &copy; Copyright 2024. All Rights Reserved by KrPanjla.
+                                    &copy; Copyright 2024. All Rights Reserved by Saurabh Rawat.
                                 </p>
 
                                 <footer>
-                                    <p className=" text-sm text-gray-300">Made with ❤️ by 100R@BH</p>
+                                    <p className=" text-sm text-gray-300">Made with ❤️ by Saurabh Rawat</p>
                                 </footer>
 
                             </div>
